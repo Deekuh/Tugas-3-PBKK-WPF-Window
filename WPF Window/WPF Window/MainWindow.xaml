@@ -1,0 +1,33 @@
+﻿<Window x:Class="WPF_Window.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Window"
+        mc:Ignorable="d"
+        Title="Name List" Height="250" Width="400" Background="#dddddd" Icon="https://cdn.discordapp.com/attachments/1102231088945963098/1153198155597365349/red_amogus.png">
+    <Grid Margin="10">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Column="0" FontWeight="Bold">Names</Label>
+        <Label Grid.Column="1" FontWeight="Bold">Type Here</Label>
+        <ListBox Grid.Row="1" x:Name="lstNames" Background="#eeeeee" KeyDown="DeleteName_KeyDown"/>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="5,0,0,0">
+            <TextBox x:Name="txtName" KeyDown="EnterName_KeyDown" Background="#eeeeee"/>
+            <Button x:Name="btnAdd" Margin="0,5,0,0" Click="ButtonAddName_Click" ToolTip="Add a name into the list" Background="#cccccc">Add Name</Button>
+            <Button x:Name="btnEdit" Margin="0,5,0,0" Click="ButtonEditName_Click" ToolTip="Edit a selected name from the list" Background="#cccccc">Edit Name</Button>
+            <Button x:Name="btnRemove" Margin="0,5,0,0" Click="ButtonRemoveName_Click" ToolTip="Remove a selected name from the list" Background="#cccccc">Remove Name</Button>
+        </StackPanel>
+
+    </Grid>
+</Window>

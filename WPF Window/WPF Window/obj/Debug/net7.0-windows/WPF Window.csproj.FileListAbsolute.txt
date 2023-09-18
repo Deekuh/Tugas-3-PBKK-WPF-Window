@@ -1,0 +1,20 @@
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\bin\Debug\net7.0-windows\WPF Window.exe
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\bin\Debug\net7.0-windows\WPF Window.deps.json
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\bin\Debug\net7.0-windows\WPF Window.runtimeconfig.json
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\bin\Debug\net7.0-windows\WPF Window.dll
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\bin\Debug\net7.0-windows\WPF Window.pdb
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\WPF Window_MarkupCompile.cache
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\WPF Window_MarkupCompile.lref
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\WPF Window.g.resources
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\WPF Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\WPF Window.AssemblyInfoInputs.cache
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\WPF Window.AssemblyInfo.cs
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\WPF Window.csproj.CoreCompileInputs.cache
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\WPF Window.dll
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\refint\WPF Window.dll
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\WPF Window.pdb
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\WPF Window.genruntimeconfig.cache
+C:\Users\62813\Documents\College\SEMESTER 5\Pemrograman Berbasis Kerangka Kerja\WPF Window\WPF Window\obj\Debug\net7.0-windows\ref\WPF Window.dll
